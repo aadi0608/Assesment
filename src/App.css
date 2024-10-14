@@ -35,4 +35,25 @@
   to {
     transform: rotate(360deg);
   }
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input, select {
+    display: block;
+    margin-bottom: 15px;
+    padding: 8px;
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  h2 {
+    margin-top: 20px;
+  }
+  
+  div {
+    margin-bottom: 20px;
+  }
+  
 }
